@@ -2,6 +2,8 @@
 
 <img src="./assets/the-seo-guide-to-angular.png" width="960">
 
+###Has not been checked by me (srb10) for changes relating to Angular versions 14, 15.
+
 ## Table of Content
 
 - [Introduction](#Introduction)
